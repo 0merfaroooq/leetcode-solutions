@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0merfaroooq/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
