@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
