@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
