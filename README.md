@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/0merfaroooq/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2784-check-if-array-is-good](https://github.com/0merfaroooq/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/0merfaroooq/leetcode-solutions/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/0merfaroooq/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0merfaroooq/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
